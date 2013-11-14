@@ -19,3 +19,5 @@ Ie;
 Consolidadate group A mail list of invoices, generate their PDF's, attach to a template email and finally, send tonight at 00:00AM from the cloud server]
 
 The philosophy of automation is really simple; Invest your time in the kind of things that a machine can't do as well: Create and expand views and actions for your business, and let and order the mechanical thoughs and actions, to the best purpose-suited posix machines. As simple as is.
+
+Steve.
